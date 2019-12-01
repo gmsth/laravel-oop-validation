@@ -1,0 +1,13 @@
+{
+    "name": "gmsth/laravel-oop-validation",
+    "description": "make laravel validation easy to use while development laravel",
+    "type": "metapackage",
+    "require": {
+        "php":">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "gmsth/laravel-oop-validation": "src/"
+        }
+    }
+}
