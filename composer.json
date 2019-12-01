@@ -1,6 +1,6 @@
 {
     "name": "gmsth/laravel-oop-validation",
-    "description": "make laravel validation easy to use while development laravel",
+    "description": "make laravel validation easy to use while development laravel application",
     "type": "metapackage",
     "require-dev": {
         "php":">=7.2"
