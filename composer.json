@@ -1,7 +1,7 @@
 {
     "name": "gmsth/oops-validator",
     "description": "make laravel validation easy to use while development laravel application",
-    "type": "metapackage",
+    "type": "library",
     "require-dev": {
         "php":">=7.2"
     },
