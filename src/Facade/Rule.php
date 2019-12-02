@@ -1,5 +1,5 @@
 <?php
-namespace rules\Facade;
+namespace Gmsth\Rules\Facade;
 
 use  Illuminate\Support\Facades\Facade;
 

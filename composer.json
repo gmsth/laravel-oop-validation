@@ -1,13 +1,14 @@
 {
-    "name": "gmsth/oops-validator",
+    "name": "gmsth/rule",
     "description": "make laravel validation easy to use while development laravel application",
     "type": "library",
     "require-dev": {
         "php":">=7.2"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "gmsth\\oops-validator\\": "src/"
+            "gmsth\\rule\\": "src/"
         }
     }
 }

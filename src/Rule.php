@@ -1,5 +1,5 @@
 <?php
-namespace rules;
+namespace Gmsth\Rules;
 
 class Rule
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace rules;
+namespace Gmsth\Rules;
 
 use Illuminate\Support\ServiceProvider;
 
-class OopsValidatorServiceProvider extends ServiceProvider
+class RuleServiceProvider extends ServiceProvider
 {
     public function boot()
     {     
