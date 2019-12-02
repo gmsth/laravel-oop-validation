@@ -6,9 +6,16 @@
         "php":">=7.2"
     },
     "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Gmsth\\Rule\\RuleServiceProvider"
+            ]
+        }
+    },
     "autoload": {
         "psr-4": {
-            "gmsth\\rule\\": "src/"
+            "Gmsth\\Rule\\": "src/"
         }
     }
 }
